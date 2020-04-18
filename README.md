@@ -2,14 +2,14 @@
 
 - a react application where we can store , add and delete the contacts from the contact list
 
-![alt text](https://github.com/vishakhasingh4/react-contact-app/contact-list.png)
+![alt text](https://github.com/vishakhasingh4/react-contact-app/blob/master/contact-list.png)
 
 
-![alt text](https://github.com/vishakhasingh4/react-contact-app/contact-form.png)
+![alt text](https://github.com/vishakhasingh4/react-contact-app/blob/master/contact-form.png)
 
 ## Project Setup :
 
-- clone the Project - git clone https://github.com/yash-me/React_contact_app.git
+- clone the Project - git clone https://github.com/vishakhasingh4/React_contact_app.git
 - install the dependencies - npm install
 - run to view the project - npm start
 
