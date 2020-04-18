@@ -9,7 +9,7 @@
 
 ## Project Setup :
 
-- clone the Project - git clone git@github.com:vishakhasingh4/react-contact-app.git
+- clone the Project - git clone https://github.com/vishakhasingh4/react-contact-app.git
 - install the dependencies - npm install
 - run to view the project - npm start
 
